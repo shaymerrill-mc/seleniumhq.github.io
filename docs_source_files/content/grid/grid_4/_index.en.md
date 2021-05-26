@@ -13,4 +13,4 @@ Grid 4 has an approach to take advantage of a number of new technologies in orde
 to facilitate scaling up, while still allowing local execution.
 
 To get all the details of Grid 4 components, understand how it works, and how to set
-up you own, please browse thorough the following sections.
+up your own, please browse through the following sections.
